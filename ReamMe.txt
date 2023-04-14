@@ -17,7 +17,7 @@ local module file:
    |____OKSHOW.PNG
    |____NGshow.PNG
 1.4 python environment
-  windows xp, python 3. (can run in win 10\11 )
+  windows 7, python 3. (can run in win 10\11 )
 2.RUN
 in current file path, type follow in command:
 python sanxing_vision_main.py 
